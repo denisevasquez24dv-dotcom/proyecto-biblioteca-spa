@@ -28,11 +28,15 @@ Para cumplir con los estándares de desarrollo solicitados, se implementaron las
 <img width="1280" height="696" alt="image" src="https://github.com/user-attachments/assets/21558515-bdcc-4ba0-831c-72c85e63bf84" />
 
 ● Referencias y Recursos
-•	Vue.js: Documentación Oficial
-•	Vue Router: Documentación Oficial
-•	Herramientas: Documentación de Vue CLI y Vue Devtools
-•	Entorno de Pruebas: Vue Playground
-•	Materiales de Clase: Manuales y guías del Módulo 6.
+-	Vue.js: Documentación Oficial
+-	Vue Router: Documentación Oficial
+-	Herramientas: Documentación de Vue CLI y Vue Devtools
+-	Entorno de Pruebas: Vue Playground
+-	Materiales de Clase: Manuales y guías del Módulo 6.
+
+Desarrollado por: Denise Vásquez Espinoza 
+Modulo 6-vue.js 
+Curso: Desarrollo de Aplicaciones Front-end Traine
 
 
 
